@@ -35,6 +35,10 @@ O objetivo do projeto é fornecer uma plataforma intuitiva e de fácil entendime
 - **Legendas claras:** Fornecer informações claras e descritivas sobre os locais no mapa para facilitar a compreensão dos usuários, assim como a leitura de programas Text-to-Voice, tendo em mente usuários PCD.
 - **Referência Fotográfica dos Locais:** Incluir imagens dos edifícios e pontos de referência dentro do campus para ajudar os usuários a reconhecerem os locais ao navegar pelo mapa.
 
+## Prazo
+
+Primeiro semestre do ano.
+
 ## Tecnologias Utilizadas
 
 - HTML, CSS, JavaScript
